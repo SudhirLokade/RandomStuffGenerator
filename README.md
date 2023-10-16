@@ -4,7 +4,7 @@ This is a simple web application that generates random content like programmer m
 1. Clone this repository on your local machine
    
    ```sh
-    git clone https://github.com/konprtk/RandomStuffGenerator.git
+    git clone https://github.com/SudhirLokade/RandomStuffGenerator.git
    ```
 3. Open this project directory
    ```sh
